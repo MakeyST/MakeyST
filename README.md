@@ -7,13 +7,14 @@
 - 🎮Past place of work: My.Games Warface, Warface PTS, Warface Tournaments
 - ✉️How to reach me: [Telegram](https://t.me/MakeyStar)
 #### Languages and Tools:
-<img align="left" alt="Intelij_IDEA" width="26px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\Java.svg">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\JUnit5.svg">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\Selenium.svg">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\Selenide.svg">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\Jira.svg">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\Gradle.svg">
-<img align="left" alt="" width="50px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\TESTNG.png">
-<img align="left" alt="" width="26px" src="C:\Users\pro10\Desktop\MakeyST\src\Git\chrome-devtools-square.svg">
+
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg">
+<img align="left" alt="Intelij_IDEA" width="50px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png">
+<img align="left" alt="" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
 
