@@ -1,4 +1,4 @@
-<img src="https://images.hdqwalls.com/download/binary-code-minimalism-abstract-t1-2560x1080.jpg" width="100%">
+<img src="https://images.hdqwalls.com/download/binary-code-minimalism-abstract-t1-2560x1080.jpg" width="50%">
 
 ## Hi there 👋
 ### About me
