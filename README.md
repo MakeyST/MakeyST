@@ -1,4 +1,4 @@
-<img src="" width="100%">
+<img src="https://kartinkin.net/uploads/posts/2022-01/1643337307_78-kartinkin-net-p-pattern-programmirovanie-krasivie-86.jpg" width="100%">
 
 ## Hi there 👋
 ### About me
