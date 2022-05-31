@@ -1,5 +1,5 @@
 
-## 48 69
+## Hi <img align="left" alt="Hi(Привет)" width="28px" src="https://clck.ru/osJXM">
 
 ### About me
 
