@@ -3,7 +3,7 @@
 
 ### About me
 
-- 💻I'm QA Engineer
+- 💻I'm QA Engineer (Manual + Automation)
 - 🎓Education: Programmer-technician
 - ✉️How to reach me: [Telegram](https://t.me/MakeyStar)
 
