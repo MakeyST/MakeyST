@@ -1,9 +1,9 @@
 
 # <img alt="Hi(Привет)" width="75px" src="https://clck.ru/osZcz"> <img alt="Hi(Привет)" width="75px" src="https://clck.ru/osep3"> Hello <img alt="Hi(Привет)" width="75px" src="https://clck.ru/osep3"> <img alt="Hi(Привет)" width="75px" src="https://clck.ru/osZcz">
 
-### About me
+### About me 
 
-- 💻I'm QA Engineer (Manual + Automation)
+- <img alt="I'm QA Engineer (Manual + Automation)" width="75px" src="https://clck.ru/osmSM">I'm QA Engineer (Manual + Automation)
 - 🎓Education: Programmer-technician
 - ✉️How to reach me: [Telegram](https://t.me/MakeyStar)
 
