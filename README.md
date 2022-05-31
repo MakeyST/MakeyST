@@ -22,4 +22,5 @@
 <img align="left" alt="JUnit5" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg">
 <img align="left" alt="TestNG" width="50px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png">
 <img align="left" alt="Github" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
+<img align="left" alt="С++" width="26px" src="https://clck.ru/orqQ6">
 
