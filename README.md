@@ -3,7 +3,8 @@
 ### About me
 - 💻I'm QA Engineer
 - 🎓Education: Programmer-technician
-- <img align="left" alt="My.Games" width="26px" src="https://my.games/hotbox/mygames/media/services/2c98dbd1f79444d2cd6416abd0f242e5.svg">Past place of work: My.Games Warface, Warface PTS, Warface Tournaments
+### Work experience:
+<img align="left" alt="My.Games" width="26px" src="https://my.games/hotbox/mygames/media/services/2c98dbd1f79444d2cd6416abd0f242e5.svg"> My.Games: Warface, Warface PTS, Warface Tournaments, Lootdog
 - ✉️How to reach me: [Telegram](https://t.me/MakeyStar)
 #### Languages and Tools:
 
