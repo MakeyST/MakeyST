@@ -24,6 +24,6 @@
 <img align="left" alt="Github" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
 <img align="left" alt="С++" width="26px" src="https://clck.ru/orqQ6">
 <img align="left" alt="C#" width="26px" src="https://clck.ru/ortBi">
-<img align="left" alt="CSS" width="26px" src="https://clck.ru/ortz6">
-<img align="left" alt="HTML" width="26px" src="https://clck.ru/YDYuS">
+<img align="left" alt="CSS" width="30px" src="https://clck.ru/ortz6">
+<img align="left" alt="HTML" width="50px" src="https://clck.ru/YDYuS">
 
