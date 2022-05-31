@@ -3,8 +3,8 @@
 
 ### About me 
 
-- <img alt="I'm QA Engineer (Manual + Automation)" width="30px" src="https://clck.ru/osmSM">I'm QA Engineer (Manual + Automation)
-- 🎓Education: Programmer-technician
+- <img alt="I'm QA Engineer (Manual + Automation)" width="30px" src="https://clck.ru/osmSM"> I'm QA Engineer (Manual + Automation)
+- <img alt="Programmer-technician" width="30px" src="https://clck.ru/ospskEducation"> Programmer-technician
 - ✉️How to reach me: [Telegram](https://t.me/MakeyStar)
 
 ### Work experience:
