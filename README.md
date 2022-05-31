@@ -1,5 +1,5 @@
 
-## Hi <img alt="Hi(Привет)" width="100px" src="https://clck.ru/osJXM">
+#<img alt="Hi(Привет)" width="75px" src="https://clck.ru/osLLm">
 
 ### About me
 
