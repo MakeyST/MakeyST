@@ -1,5 +1,5 @@
 
-# <p align="center"> <img alt="Hi(Привет)" width="75px" src="https://clck.ru/pM3G6">  Hello   <img alt="Hi(Привет)" width="75px" src="https://clck.ru/pM3G6"> </p>
+# <p align="center"> <img alt="Hi(Привет)" width="170px" src="https://clck.ru/pM3G6">  Hello   <img alt="Hi(Привет)" width="170px" src="https://clck.ru/pM3G6"> </p>
 
 ### About me 
 
