@@ -9,7 +9,7 @@
 
 ### Work experience:
 
-<img align="left" alt="My.Games" width="26px" src="https://my.games/hotbox/mygames/media/services/2c98dbd1f79444d2cd6416abd0f242e5.svg"> My.Games: Warface, Warface PTS, Warface Tournaments, Lootdog
+<img align="left" alt="My.Games" width="26px" src="https://my.games/hotbox/mygames/media/services/2c98dbd1f79444d2cd6416abd0f242e5.svg"> My.Games: Warface WEB, Warface mobile, Warface, Warface PTS, Warface Tournaments, Lootdog
 
 #### Languages and Tools:
 
