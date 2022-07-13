@@ -16,7 +16,7 @@ My.Games: Warface WEB, Warface mobile, Warface, Warface PTS, Warface Tournaments
 
 #### **Languages and Tools**:
 
-<div>
+
 <img align="left" alt="Intelij_IDEA" width="28px" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg">
 <img align="left" alt="Visual Studio Code" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" alt="Java" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg">
@@ -27,5 +27,5 @@ My.Games: Warface WEB, Warface mobile, Warface, Warface PTS, Warface Tournaments
 <img align="left" alt="JUnit5" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg">
 <img align="left" alt="TestNG" width="50px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png">
 <img align="left" alt="Github" width="28px" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
-</div>
+
 
