@@ -1,6 +1,6 @@
 
 # <p align="center"> <img alt="Hi(Привет)" width="100px" src="https://clck.ru/pMDcY">  Hello   <img alt="Hi(Привет)" width="100px" src="https://clck.ru/pMDcY"> </p>
-***
+
 ### **About me** 
 
 - <img alt="I'm QA Engineer (Manual + Automation)" width="26px" src="https://clck.ru/osmSM"> I'm QA Engineer (Manual + Automation)
