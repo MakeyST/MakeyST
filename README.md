@@ -28,4 +28,5 @@
 <img align="left" alt="TestNG" width="50px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png">
 <img align="left" alt="Github" width="28px" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
 <img align="left" alt="Postman" width="28px" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
+<img align="left" alt="Docker" width="28px" src="https://timeweb.com/ru/community/article/82/82a19c4a0263cc9bf31614260ac17e71.png">
 
