@@ -27,5 +27,5 @@
 <img align="left" alt="JUnit5" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg">
 <img align="left" alt="TestNG" width="50px" src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png">
 <img align="left" alt="Github" width="28px" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg">
-
+<img align="left" alt="Postman" width="28px" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
 
