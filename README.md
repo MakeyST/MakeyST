@@ -11,6 +11,7 @@
 ### **Work experience**:
 
 My.Games: Warface WEB, Warface mobile, Warface, Warface PTS, Warface Tournaments, Lootdog
+Direct.Farm: Website, Website mobile, Mobile applications
 
 
 #### **Languages and Tools**:
