@@ -10,8 +10,8 @@
 
 ### **Work experience**:
 
-- My.Games: Warface WEB, Warface mobile, Warface, Warface PTS, Warface Tournaments, Lootdog
-- Direct.Farm: Website, Website mobile, Mobile applications
+- [My.Games](https://ru.warface.com/): Warface WEB, Warface mobile, Warface, Warface PTS, Warface Tournaments, Lootdog
+- [Direct.Farm](https://direct.farm): Website, Website mobile, Mobile applications
 
 
 #### **Languages and Tools**:
