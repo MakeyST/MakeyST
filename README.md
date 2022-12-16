@@ -1,5 +1,5 @@
 
-# <p align="center"> <img alt="Hi(Привет)" width="100px" src="https://clck.ru/333kgJ">  Hello   <img alt="Hi(Привет)" width="100px" src="https://clck.ru/333kgJ"> </p>
+# <p align="center"> <img alt="Hi(Привет)" width="100px" src="https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh">  Hello   <img alt="Hi(Привет)" width="100px" src="https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh"> </p>
 
 ### **About me** 
 
