@@ -1,5 +1,5 @@
 
-# <p align="center"> <img alt="Hi(Привет)" width="100px" src="https://gifer.com/embed/JW1h" width=480 height=240.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">  Hello   <img alt="Hi(Привет)" width="100px" src="https://i.gifer.com/JW1h.gif"> </p>
+# <p align="center"> <img alt="Hi(Привет)" width="100px" src="https://gifer.com/embed/JW1h">  Hello   <img alt="Hi(Привет)" width="100px" src="https://i.gifer.com/JW1h.gif"> </p>
 
 ### **About me** 
 
