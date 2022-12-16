@@ -18,7 +18,6 @@
 
 
 <img align="left" alt="Intelij_IDEA" width="28px" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg">
-<img align="left" alt="Visual Studio Code" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" alt="Java" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg">
 <img align="left" alt="Selenium" width="26px" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg">
 <img align="left" alt="Selenide" width="60px" src="https://ru.selenide.org/images/selenide-logo-big.png">
