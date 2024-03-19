@@ -5,7 +5,7 @@
 
 -  I'm QA Engineer (Manual + Automation)
 - Education: Programmer-technician
-- <img alt="How to reach me:" width="26px" src="https://clck.ru/ostoU"> How to reach me: [Telegram](https://t.me/MakeyStar)
+-  How to reach me: [Telegram](https://t.me/MakeyStar)
 
 
 ### **Work experience**:
